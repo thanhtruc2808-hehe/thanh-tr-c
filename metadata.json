@@ -1,0 +1,6 @@
+{
+  "name": "EcoPack & GreenRewards - F&B Ecosystem",
+  "description": "Green F&B Packaging B2B Wholesale Portal & B2C Eco-Cup Loyalty Rewards Platform with real-time impact metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
